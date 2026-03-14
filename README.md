@@ -4,7 +4,7 @@
 
 [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Install%20Now-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/GPT-Prompter/daojapjleapkpmoemdoapihdafcgclgd)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-1.0.0-orange?style=for-the-badge)]()
+[![Version](https://img.shields.io/badge/Version-1.3.0-orange?style=for-the-badge)]()
 
 ---
 
