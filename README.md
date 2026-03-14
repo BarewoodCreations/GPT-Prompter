@@ -88,21 +88,9 @@ After installation:
 
 ---
 
-## Contributing
+## Contributing, Feedback & Support
 
-Contributions are welcome! If you have a great prompt, a bug fix, or a feature suggestion:
-
-1. Fork this repository
-2. Create a new branch (`git checkout -b feature/your-feature`)
-3. Commit your changes (`git commit -m 'Add your feature'`)
-4. Push to the branch (`git push origin feature/your-feature`)
-5. Open a Pull Request
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting.
-
----
-
-## Feedback & Support
+Contributions are welcome! If you have a great prompt, a bug fix, or a feature suggestion open a ticket in this repo.
 
 - 🐛 **Bug reports:** [Open an issue](../../issues)
 - 💡 **Feature requests:** [Start a discussion](../../discussions)
@@ -110,9 +98,6 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting.
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
