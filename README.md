@@ -105,3 +105,6 @@ Don't worry, details here: [PRIVACY.md](./PRIVACY.md)
 ---
 
 <p align="center">Built for AI power users who take their workflow seriously.</p>
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/barewoodcreations)
+
