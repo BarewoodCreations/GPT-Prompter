@@ -98,6 +98,9 @@ Contributions are welcome! If you have a great prompt, a bug fix, or a feature s
 
 ---
 
+## GDPR & Privacy
+
+Don't worry, details here: [PRIVYCY.md](./PRIVACY.md)
 
 ---
 
